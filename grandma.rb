@@ -8,4 +8,3 @@ def speak_to_grandma (message)
    puts "HUH?! SPEAK UP, SONNY!"
 end
 
-speak_to_grandma (message)
