@@ -1,3 +1,5 @@
 def speak_to_grandma (message)
-  puts "test"
+  if message == "blah"
+    return "blah"
+  end
 end
